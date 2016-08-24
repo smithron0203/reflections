@@ -2,7 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 local?
 
     When I am working in a group and I have to update the changes made by me 
-	in the main code, I should have a remote repository
+	in the main code, I should have a remote repository. So individual
+	works can be updated anytime without affecting the flow
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
